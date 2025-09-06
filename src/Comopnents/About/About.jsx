@@ -34,7 +34,7 @@ const About = () => {
               </div>
             </div>
             <div className="abountme py-5">
-              <h1 className="text-wrap text-white text-xl" >I am a Frontend developer with over 4 months of experience in building scalable web applications. Skilled in  front-end and, I specialize in the React.js and other modern technologies to create seamless user experiences and efficient solutions .</h1>
+              <h1 className="text-wrap text-gray-500 text-xl" >I am a Frontend developer with over 4 months of experience in building scalable web applications. Skilled in  front-end and, I specialize in the React.js and other modern technologies to create seamless user experiences and efficient solutions .</h1>
               </div>
           </div>
 
