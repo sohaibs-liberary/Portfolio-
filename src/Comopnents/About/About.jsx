@@ -16,7 +16,7 @@ const About = () => {
               <img
                 src={Myimg}
                 alt=""
-                className="rounded-full lg:w-[500px] lg:h-[500px] drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"
+                className="rounded-full lg:w-[500px] lg:h-[500px] drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)] animate-float"
               />
             </div>
           </div>
@@ -75,7 +75,7 @@ const About = () => {
               <img
                 src={Myimg}
                 alt=""
-                className="rounded-full lg:w-[500px] lg:h-[500px] drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"
+                className="rounded-full lg:w-[500px] lg:h-[500px] drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)] animate-float"
               />
             </div>
           </div>
