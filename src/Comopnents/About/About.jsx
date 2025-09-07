@@ -63,7 +63,7 @@ const About = () => {
             <div className="btn  ">
               <a href={CV}>
                 
-              <button className=" bg-gradient-to-r from-purple-950 to-purple-900  shadow-lg shadow-purple-500/10 text-white font-semibold text-2xl py-3 px-8 rounded-full hover:translate-y-2 transform transition duration-300"
+              <button className=" bg-gradient-to-r from-purple-950 to-purple-900  drop-shadow-[1px_8px_8px_rgba(130,69,236,0.5)] shadow-lg shadow-purple-500/10 text-white font-semibold text-2xl py-3 px-8 rounded-full hover:translate-y-2 transform transition duration-300"
 
                >DOWNLOAD CV</button>
               </a>

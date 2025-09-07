@@ -8,8 +8,8 @@ export default {
     extend: {
       keyframes: {
         float: {
-          "0%, 100%": { transform: "translateY(0)" },
-          "50%": { transform: "translateY(-20px)" },
+          "0%, 100%": { transform: "translateY(40)" },
+          "50%": { transform: "translateY(-40px)" },
         },
       },
       animation: {

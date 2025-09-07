@@ -1,6 +1,7 @@
 import React from 'react'
 import Navbar from './Comopnents/Navbar/Navbar'
 import About from './Comopnents/About/About'
+import Skills from './Comopnents/Skills/Skills'
 
 const App = () => {
   return (
@@ -8,6 +9,7 @@ const App = () => {
     <Navbar />
     <div className="pt-24">
     <About />
+    <Skills/>
     </div>
     </>
   )
