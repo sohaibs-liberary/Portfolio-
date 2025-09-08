@@ -24,9 +24,9 @@ const Navbar = () => {
   const mainmenu = [
     { id: "about", Lable: "About", link: "/about" },
     { id: "skills", Lable: "Skills", link: "/skills" },
-    { id: "experience", Lable: "Experience", link: "/experience" },
     { id: "projects", Lable: "Projects", link: "/projects" },
-    { id: "education", Lable: "Education", link: "/education" },
+    { id: "contact", Lable: "Contact", link: "/contact" },
+    
   ];
 
   return (

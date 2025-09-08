@@ -17,5 +17,13 @@ export default {
       },
     },
   },
-  plugins: [],
+  plugins: [
+    function ({ addUtilities }) {
+      addUtilities({
+        ".clip-bottom": {
+          "clip-path": "polygon(0 0, 100% 100%, 0 100%)",
+        },
+      });
+    },
+  ],
 }
