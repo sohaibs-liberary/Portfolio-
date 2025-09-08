@@ -36,6 +36,37 @@ const Skills = () => {
 
     ];
 
+
+    const Skills =[
+        {
+            id:1,
+            img:  "https://tarunkaushik.vercel.app/assets/git-BClPRNCD.png",
+            name:"Git ",
+
+        },{
+            id:1,
+            img:  "https://tarunkaushik.vercel.app/assets/github-DabB8wTb.png",
+            name:"GitHub",
+
+        },{
+            id:1,
+            img: "https://tarunkaushik.vercel.app/assets/vscode-DI9n3a0r.png",
+            name:"VS Code",
+
+        },{
+            id:1,
+            img:  "https://tarunkaushik.vercel.app/assets/vercel-B3cpfMqI.png",
+            name:"Versal",
+
+        },
+        // {
+        //     id:1,
+        //     img:  "https://tarunkaushik.vercel.app/assets/tailwindcss-CCkYV0vR.png",
+        //     name:"TAILWINCSS",
+
+        // },
+    ];
+
   return (
    <>
    <div className="Skills">
@@ -57,7 +88,7 @@ const Skills = () => {
                 <div className="first max-w-[550px] max-h-[600px] border-white border-[1px] drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)] rounded-lg py-10 px-20">
                    <h1 className='text-4xl text-white font-extrabold font-sans text-center' >Frontend</h1>
                   
-                   <ul className="grid grid-cols-3 gap-5" >
+                   <ul className="grid grid-cols-3 gap-8 my-8" >
 
                     {
                         Frontend.map((data,index)=>(
@@ -76,12 +107,12 @@ const Skills = () => {
                 </div>
                 {/* TOOLS */}
                  <div className="first max-w-[550px] max-h-[600px] border-white border-[1px] drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)] rounded-lg py-10 px-20">
-                   <h1 className='text-4xl text-white font-extrabold font-sans text-center' >Frontend</h1>
+                   <h1 className='text-4xl text-white font-extrabold font-sans text-center' >Skills</h1>
                   
-                   <ul className="grid grid-cols-3 gap-5" >
+                   <ul className="grid grid-cols-3 gap-5 my-8 " >
 
                     {
-                        Frontend.map((data,index)=>(
+                        Skills.map((data,index)=>(
                             <li key={index} >
 
                             <div className="flex justify-center  min-w-32  max-h-9 p-1 rounded-full border-gray-600 border-[1px] ">
