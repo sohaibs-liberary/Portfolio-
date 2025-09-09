@@ -1,10 +1,11 @@
 import React from 'react'
+import Projectone from "/src/assets/Opera Snapshot_2025-09-09_113646_for-form.vercel.app.png"
 
 const Projects = () => {
     const projects =[
          {
             card:1,
-            img:"/src/assets/Opera Snapshot_2025-09-09_113646_for-form.vercel.app.png",
+            img:Projectone,
             title:"Ecommeence Website",
             detail:"I built a modern and responsive fashion eCommerce frontend using ReactJS and Tailwind CSS.  ",
         },
