@@ -1,5 +1,8 @@
 import React from 'react'
 import Projectone from "/src/assets/Opera Snapshot_2025-09-09_113646_for-form.vercel.app.png"
+import Projecttwo from "/src/assets/Opera Snapshot_2025-09-09_114659_weather-app-neon-nu-37.vercel.app.png"
+import Projectthree from "/src/assets/Opera Snapshot_2025-09-09_125317_gain-tau.vercel.app.png"
+import Projectfour from "/src/assets/Opera Snapshot_2025-09-09_114448_clock.html.png"
 
 const Projects = () => {
     const projects =[
@@ -11,18 +14,18 @@ const Projects = () => {
         },
         {
             card:2,
-            img:"/src/assets/Opera Snapshot_2025-09-09_114659_weather-app-neon-nu-37.vercel.app.png",
+            img:Projecttwo,
             title:"Weather Check",
             detail:"A responsive weather app built using React.js, designed to fetch and display real-time weather data for any city using an API.",
         },
         {
             card:3,
-            img:" /src/assets/Opera Snapshot_2025-09-09_125317_gain-tau.vercel.app.png",
+            img:Projectthree,
             title:"Job Posting Page",
             detail:"GAIN+ is a modern web platform built for freelancers and companies to connect, collaborate, and work on projects. Inspired by leading platforms like Fiverr and Upwork, this project showcases a clean UI, strong layout design, and user-friendly components.",
         },{
             card:4,
-            img:" /src/assets/Opera Snapshot_2025-09-09_114448_clock.html.png",
+            img:Projectfour,
             title:"Digital Watch",
             detail:"A sleek digital clock built with JavaScript, featuring dynamic time updates and a modern UI design.",
         },
