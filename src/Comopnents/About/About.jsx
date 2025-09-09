@@ -1,7 +1,7 @@
 import React from "react";
 import { Typewriter } from "react-simple-typewriter";
 import Myimg from "/src/assets/sohaibDP.jpeg";
-import CV from "file:///home/coder-chip/Downloads/Black%20Modern%20Professional%20Resume%20(1).pdf";
+import CV from "/src/assets/Black Modern Professional Resume (1).pdf";
 
 const About = () => {
   return (
