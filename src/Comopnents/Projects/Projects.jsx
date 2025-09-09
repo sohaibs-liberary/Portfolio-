@@ -30,7 +30,7 @@ const Projects = () => {
   return (
     <>
     <div className="Pojects">
-        <div className="textandcards bg-gray-900 ">
+        <div className="textandcards bg-slate-950 ">
             <div className="text">
                 <div className="text">
             <div className="grid justify-center gap-4">

@@ -9,7 +9,7 @@ const About = () => {
 
      
 
-      <div className="bg-gray-900 p-14">
+      <div className="bg-slate-950 p-14">
         {/* Mobile photo */}
          <div className="image block lg:hidden">
             <div className="">

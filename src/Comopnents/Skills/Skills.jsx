@@ -70,7 +70,7 @@ const Skills = () => {
   return (
    <>
    <div className="Skills">
-    <div className="textandskills bg-gray-900 p-5">
+    <div className="textandskills bg-slate-950 p-5">
         <div className="text">
             <div className="grid justify-center gap-4">
                 <h1 className='text-4xl text-white font-extrabold font-sans ' >SKILLS

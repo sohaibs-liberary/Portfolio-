@@ -31,9 +31,9 @@ const Navbar = () => {
 
   return (
     <>
-      <div className="bg-gray-900">
+      <div className="bg-slate-950">
         <div
-          className={`Navbar flex justify-around p-10 bg-gray-900  fixed top-0 w-full z-50 transistion duration-300  ${
+          className={`Navbar flex justify-around p-10 bg-slate-950  fixed top-0 w-full z-50 transistion duration-300  ${
             isScrolled
               ? "bg-gray-900 bg-opacity-50 backdrop-blur-md shadow-md"
               : ""  // ya ha sa bg-transparent abhi ma na hatia haa bad ma aghr zarooat hoi to lagio gaaa
