@@ -5,11 +5,11 @@ import CV from "/src/assets/Black Modern Professional Resume (1).pdf";
 
 const About = () => {
   return (
-    <div className="About  " id="about">
+    <div className="About   " id="about">
 
      
 
-      <div className="bg-slate-950 p-14">
+      <div className="bg-slate-950 p-14 py-24 ">
         {/* Mobile photo */}
          <div className="image block lg:hidden">
             <div className="">
