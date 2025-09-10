@@ -69,7 +69,7 @@ const Skills = () => {
 
   return (
    <>
-   <div className="Skills">
+   <div className="Skills" id='skills' >
     <div className="textandskills bg-slate-950 p-5">
         <div className="text">
             <div className="grid justify-center gap-4">

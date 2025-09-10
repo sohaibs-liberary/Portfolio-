@@ -5,7 +5,7 @@ import CV from "/src/assets/Black Modern Professional Resume (1).pdf";
 
 const About = () => {
   return (
-    <div className="About ">
+    <div className="About  " id="about">
 
      
 

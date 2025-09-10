@@ -32,7 +32,7 @@ const Projects = () => {
     ];
   return (
     <>
-    <div className="Pojects">
+    <div className="Pojects  " id='projects'>
         <div className="textandcards bg-slate-950 ">
             <div className="text">
                 <div className="text">
