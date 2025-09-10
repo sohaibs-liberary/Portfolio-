@@ -32,7 +32,7 @@ const Contact = () => {
                       Connect With Me 🚀
                     </h1>
                   </div>
-                  <div className="typing grid grid-cols-1 justify-center mx-20 gap-4 text-center py-8">
+                  <div className="typing grid grid-cols-1 justify-center lg:mx-20 mx-10 gap-4 text-center py-8">
                     <input
                       type="email"
                       placeholder=" Your Email"

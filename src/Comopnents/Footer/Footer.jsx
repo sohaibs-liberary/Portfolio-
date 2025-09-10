@@ -40,15 +40,15 @@ const Footer = () => {
           </div>
         </div>
         <div className="sociamediaaps flex justify-center gap-6 ">
-          <a href="">
+          <a href="https://www.facebook.com">
           <FaFacebook  className='text-white text-2xl hover:text-purple-800 items-center ' />
           </a>
            <a href="">
-          <FaTwitter  className='text-white text-2xl hover:text-purple-700 items-center ' />
+          <FaTwitter  className='text-white text-2xl hover:text-purple-500 items-center ' />
           </a>
            <a href="">
           <FaLinkedin
-           className='text-white text-2xl hover:text-blue-700 items-center ' />
+           className='text-white text-2xl hover:text-blue-900 items-center ' />
           </a>
            <a href="">
           <FaInstagram  className='text-white text-2xl hover:text-red-700 items-center ' />
