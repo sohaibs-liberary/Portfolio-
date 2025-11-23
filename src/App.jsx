@@ -7,6 +7,7 @@ import Contact from './Comopnents/Contacts/Contact'
 import Footer from './Comopnents/Footer/Footer'
 const App = () => {
   return (
+    
     <>
     <Navbar />
     <div className="">
